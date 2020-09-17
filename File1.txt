@@ -7,8 +7,15 @@ Bug is – Put a “ ”(space) between numerical and letters
 
 Change 1  Change 1
  idea branch
+<<<<<<< Updated upstream
 
 new commit master 
+=======
+
+
+
+Change 3
+>>>>>>> Stashed changes
 
 
 

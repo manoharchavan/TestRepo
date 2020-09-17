@@ -7,7 +7,9 @@ Change2 – commit with message as “Change 2 in File1”
 Bug is – Put a “ ”(space) between numerical and letters
 
 Change 1  Change 1
+ idea branch
 
+new commit master 
 
 
 

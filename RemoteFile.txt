@@ -4,3 +4,5 @@ Change2 in RemoteFile for test
 
 
 Change2 in RemoteFile for test
+
+Change3 – commit with message as “Change3 in RemoteFile”
